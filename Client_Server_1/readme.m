@@ -1,0 +1,2 @@
+Socket programming is a fundamental concept in network programming that allows communication between two computers over a network. In this program, a client and a server are implemented to establish a connection. The server listens for incoming connections on a specific port, while the client initiates a connection to the server's IP address and port number. Once the connection is established, data can be exchanged between the client and the server. This basic socket programming example serves as a starting point for building more complex network applications.
+
